@@ -15,3 +15,10 @@ Independent schools outperformed government schools in all categories from avera
 Obviously, there are certain limitations with this data, and we only selected certain parameters to do out comparisons however we did not have any insight into the qualifications of the teaching staff and any curriculum criteria or standards between independent and government schools. 
 
 
+Some code sourced and adopted from the following websites;
+
+Pandas Documentation: The official documentation for the Pandas library, which provides detailed explanations, examples, and usage guidelines for working with data in Python using Pandas https://pandas.pydata.org/docs/
+
+https://realpython.com/
+
+https://www.w3schools.com/python/
