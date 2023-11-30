@@ -103,5 +103,6 @@ Use the per_school_summary DataFrame from the previous step to create a new Data
 
 This new DataFrame should show school performance based on the "School Type".
 
+![image](https://github.com/Dusko2779/BootCamp_pandas-challenge/assets/134830906/3d564a10-c184-47e4-a170-e7c793ad1fe5)
 
 
