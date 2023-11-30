@@ -29,6 +29,9 @@ Average reading score
 
 Note: A passing grade is 50 or higher.
 
+![image](https://github.com/Dusko2779/BootCamp_pandas-challenge/assets/134830906/a05c4ba9-9d9a-4dcb-927e-a3c001f3a8aa)
+
+
 ### School Summary
 Perform the necessary calculations and then create a DataFrame that summarises key metrics about each school.
 
