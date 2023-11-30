@@ -99,10 +99,10 @@ Use pd.cut on the "Total Students" column of the per_school_summary DataFrame.
 Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
 
 ### Scores by School Type
-Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 
-This new DataFrame should show school performance based on the "School Type".
+![image](https://github.com/Dusko2779/BootCamp_pandas-challenge/assets/134830906/9c2a7d30-1510-4935-8a0c-5fe3d4383bee)
 
-![image](https://github.com/Dusko2779/BootCamp_pandas-challenge/assets/134830906/3d564a10-c184-47e4-a170-e7c793ad1fe5)
+
+
 
 
