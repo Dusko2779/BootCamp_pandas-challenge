@@ -3,12 +3,8 @@
 ### Background
 You are the new Chief Data Scientist for your local government area. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
-As a first task, you've been asked to analyse the area-wide standardised test results. You'll be given access to every student's maths and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
-
 ### Instructions
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
-
-Hint: Check out the sample solution called PyCitySchools_starter.ipynb located in the .zip file to review the desired format for this assignment.
 
 ### Local Government Area (LGA) Summary
 Perform the necessary calculations and then create a high-level snapshot of the local government area's key metrics in a DataFrame.
@@ -76,17 +72,6 @@ Create a DataFrame that lists the average reading score for students of each yea
 
 ### Scores by School Spending
 Create a table that breaks down school performance based on average spending ranges (per student).
-
-Use the code provided below to create four bins with reasonable cutoff values to group school spending.
-
-Use the following code to then calculate mean scores per spending range.
-
-spending_math_scores = school_spending_df.groupby(["Spending Ranges (Per Student)"])["Average Math Score"].mean()
-spending_reading_scores = school_spending_df.groupby(["Spending Ranges (Per Student)"])["Average Reading Score"].mean()
-spending_passing_math = school_spending_df.groupby(["Spending Ranges (Per Student)"])["% Passing Math"].mean()
-spending_passing_reading = school_spending_df.groupby(["Spending Ranges (Per Student)"])["% Passing Reading"].mean()
-overall_passing_spending = school_spending_df.groupby(["Spending Ranges (Per Student)"])["% Overall Passing"].mean()
-Use the scores above to create a DataFrame called spending_summary.
 
 ### Include the following metrics in the table:
 
