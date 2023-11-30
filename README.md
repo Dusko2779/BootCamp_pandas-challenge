@@ -76,6 +76,9 @@ Create a DataFrame that lists the average reading score for students of each yea
 ### Scores by School Spending
 Create a table that breaks down school performance based on average spending ranges (per student).
 
+![image](https://github.com/Dusko2779/BootCamp_pandas-challenge/assets/134830906/bbbed291-6d30-46d2-96fc-2a56ea070b5f)
+
+
 ### Include the following metrics in the table:
 
 Average maths score
@@ -99,4 +102,6 @@ Create a DataFrame called size_summary that breaks down school performance based
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 
 This new DataFrame should show school performance based on the "School Type".
+
+
 
