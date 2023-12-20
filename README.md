@@ -1,4 +1,4 @@
-### Module_4_pandas-challenge
+### Module_4_Pandas_Challenge
 
 ### Background
 You are the new Chief Data Scientist for your local government area. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
